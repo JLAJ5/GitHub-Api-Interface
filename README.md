@@ -16,7 +16,7 @@
 ## 💻 Projeto
 Este repositório foi criado para mostrar como podemos criar uma aplicação frontend com componentes reutilizáveis.
 
-Aplicativo usando a API pública do github. (https://jogo-da-memoria-fawn.vercel.app/)
+Aplicativo usando a API pública do github. (https://git-hub-api-interface.vercel.app/)
 
 ## ✨ Tecnologias
 
