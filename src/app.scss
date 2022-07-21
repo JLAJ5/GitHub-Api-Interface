@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #f8f8f8;
+  color: #29292e;
+  display: flex;
+}
+
+body, input, button, textarea {
+  font: 400 16px 'Roboto', sans-serif;
+}
+
+aside{
+  width: 45%;
+}
+
+main {
+  flex: 8;
+
+  padding: 0 32px;   
+
+  align-items: center;
+  justify-content: center;
+}
